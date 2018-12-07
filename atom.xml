@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://www.chenhaibin.com/"/>
   <updated>2018-12-07T06:13:34.176Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://www.chenhaibin.com/</id>
   
   <author>
     <name>Ben Chen</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>nihao</title>
-    <link href="http://yoursite.com/2018/12/07/41213a0f.html"/>
-    <id>http://yoursite.com/2018/12/07/41213a0f.html</id>
+    <link href="https://www.chenhaibin.com/2018/12/07/41213a0f.html"/>
+    <id>https://www.chenhaibin.com/2018/12/07/41213a0f.html</id>
     <published>2018-12-07T06:13:23.000Z</published>
     <updated>2018-12-07T06:13:34.176Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/12/07/4a17b156.html"/>
-    <id>http://yoursite.com/2018/12/07/4a17b156.html</id>
+    <link href="https://www.chenhaibin.com/2018/12/07/4a17b156.html"/>
+    <id>https://www.chenhaibin.com/2018/12/07/4a17b156.html</id>
     <published>2018-12-07T05:32:51.119Z</published>
     <updated>2018-12-07T06:13:34.178Z</updated>
     
